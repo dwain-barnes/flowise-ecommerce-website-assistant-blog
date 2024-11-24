@@ -1,10 +1,12 @@
+# Low-Code Website Sales Chatbot with GPT4o-mini and Flowise
 
+![logo](chatbot.png)
 
 
 
 
 A complete guide for settign up a low-cdoe sales chatbot featuring:
-- AI sales assistant powered by ChatGPT 4o mini using Flowise
+- AI sales assistant powered by GTP4o-mini API using Flowise
 - Tutorial blog [here](https://www.gpt-labs.ai/post/how-to-build-a-low-code-ai-sales-chatbot-for-your-website-with-flowise-and-gpt-4o-mini-api)
 
 ## Features
