@@ -1,0 +1,12 @@
+Given the following conversation and a follow up question, rephrase the follow up question to be a standalone question.
+
+Chat History: {chat_history}
+Follow Up Input: {question}
+Standalone Question:
+
+Instructions:
+- Use the conversation context from {chat_history} to understand the topic
+- Rephrase {question} into a complete, standalone question
+- Maintain any specific product details, prices, or requirements mentioned
+- Ensure technical terms and product names remain accurate
+- Make the standalone question clear and unambiguous
